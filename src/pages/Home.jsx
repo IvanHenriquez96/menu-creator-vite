@@ -2,7 +2,7 @@ import { Hero } from "../components/Hero";
 
 const Home = () => {
   return (
-    <div>
+    <div className="animate-fade">
       <Hero />
     </div>
   );

@@ -1,3 +1,3 @@
 export const Profile = () => {
-  return <div>Profile</div>;
+  return <div className="animate-fade">Profile</div>;
 };
